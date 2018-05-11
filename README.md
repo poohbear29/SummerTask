@@ -1,3 +1,3 @@
 # SummerTask
 
-This a part of Summer Task. 
+This a part of Summer Project. 
